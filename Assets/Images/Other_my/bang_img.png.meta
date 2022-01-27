@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 497589d6bb9fd574ebbdd87eb4dc87ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6444164290284489331
+    second: bang_img_0
+  - first:
+      213: -1042377762171727392
+    second: bang_img_1
+  - first:
+      213: -4379281295972308885
+    second: bang_img_2
+  - first:
+      213: -2591656467852718298
+    second: bang_img_3
+  - first:
+      213: -8665896411434328372
+    second: bang_img_4
+  - first:
+      213: 4055665469283209680
+    second: bang_img_5
+  - first:
+      213: -5209649688742941940
+    second: bang_img_6
+  - first:
+      213: -3964743186291776871
+    second: bang_img_7
+  - first:
+      213: -6715935987925254610
+    second: bang_img_8
+  - first:
+      213: 8681490949606802109
+    second: bang_img_9
+  - first:
+      213: 2973181609018682859
+    second: bang_img_10
+  - first:
+      213: -4304153909526433205
+    second: bang_img_11
+  - first:
+      213: -7805396868082950732
+    second: bang_img_12
+  - first:
+      213: 8063944846352122128
+    second: bang_img_13
+  - first:
+      213: -2827054470065950296
+    second: bang_img_14
+  - first:
+      213: 8700490068106913008
+    second: bang_img_15
+  - first:
+      213: 9153684702287014328
+    second: bang_img_16
+  - first:
+      213: -353081020389103950
+    second: bang_img_17
+  - first:
+      213: -7618994366110550198
+    second: bang_img_18
+  - first:
+      213: -6159414501503258261
+    second: bang_img_19
+  - first:
+      213: -499288691823785636
+    second: bang_img_20
+  - first:
+      213: -6674564772230628908
+    second: bang_img_21
+  - first:
+      213: 2130933236346810278
+    second: bang_img_22
+  - first:
+      213: 3807400774393195473
+    second: bang_img_23
+  - first:
+      213: 8392390557502235901
+    second: bang_img_24
+  - first:
+      213: -9166231576990852963
+    second: bang_img_25
+  - first:
+      213: -6906771655549832091
+    second: bang_img_26
+  - first:
+      213: -4615514981810451145
+    second: bang_img_27
+  - first:
+      213: -3021261203203569160
+    second: bang_img_28
+  - first:
+      213: 4922586925177029915
+    second: bang_img_29
+  - first:
+      213: -8527400434194438861
+    second: bang_img_30
+  - first:
+      213: -7299165743031092349
+    second: bang_img_31
+  - first:
+      213: -570435252426412514
+    second: bang_img_32
+  - first:
+      213: -1037657957316816434
+    second: bang_img_33
+  - first:
+      213: -1052214799899251256
+    second: bang_img_34
+  - first:
+      213: -2295761477312372325
+    second: bang_img_35
+  - first:
+      213: 539538166744485716
+    second: bang_img_36
+  - first:
+      213: -4307604805334163889
+    second: bang_img_37
+  - first:
+      213: 2069204109338936931
+    second: bang_img_38
+  - first:
+      213: -3921061774326972058
+    second: bang_img_39
+  - first:
+      213: 7472273128243512349
+    second: bang_img_40
+  - first:
+      213: -7476663941384552640
+    second: bang_img_41
+  - first:
+      213: -4057794317857839154
+    second: bang_img_42
+  - first:
+      213: 3173516417138280362
+    second: bang_img_43
+  - first:
+      213: 7449684798377854698
+    second: bang_img_44
+  - first:
+      213: -1455315262792752549
+    second: bang_img_45
+  - first:
+      213: -427328399434957451
+    second: bang_img_46
+  - first:
+      213: 1190657951620874641
+    second: bang_img_47
+  - first:
+      213: -4432348481683422749
+    second: bang_img_48
+  - first:
+      213: -6481751279028745956
+    second: bang_img_49
+  - first:
+      213: 8331400654812026260
+    second: bang_img_50
+  - first:
+      213: 7961299487035122486
+    second: bang_img_51
+  - first:
+      213: -5131480759075849495
+    second: bang_img_52
+  - first:
+      213: -7094136548227400103
+    second: bang_img_53
+  - first:
+      213: 4165462189597665627
+    second: bang_img_54
+  - first:
+      213: -4018584140307075546
+    second: bang_img_55
+  - first:
+      213: -6228081781387855943
+    second: bang_img_56
+  - first:
+      213: 2763708693123661221
+    second: bang_img_57
+  - first:
+      213: -6880708544078407542
+    second: bang_img_58
+  - first:
+      213: -2653489790890053366
+    second: bang_img_59
+  - first:
+      213: -8810498235169352713
+    second: bang_img_60
+  - first:
+      213: 56529697243171653
+    second: bang_img_61
+  - first:
+      213: 1964830453899007944
+    second: bang_img_62
+  - first:
+      213: 5864304704803202664
+    second: bang_img_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bang_img_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 526
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f55b78bab196a0800000000000000
+      internalID: -6444164290284489331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 520
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1dcf3b2fab881f0800000000000000
+      internalID: -1042377762171727392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 511
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68ee0e1ddaa933c0800000000000000
+      internalID: -4379281295972308885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 493
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f8bc57c26980cd0800000000000000
+      internalID: -2591656467852718298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 516
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedf10b02d8cb780800000000000000
+      internalID: -8665896411434328372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 504
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d19178a14e984830800000000000000
+      internalID: 4055665469283209680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 498
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ba042c53b93b7b0800000000000000
+      internalID: -5209649688742941940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 356
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ad6304176af8c0800000000000000
+      internalID: -3964743186291776871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 347
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ef3713dc33cc2a0800000000000000
+      internalID: -6715935987925254610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 334
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2051ca50ada7870800000000000000
+      internalID: 8681490949606802109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 329
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed684abbecd24920800000000000000
+      internalID: 2973181609018682859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 181
+        width: 145
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42711cd2d29444c0800000000000000
+      internalID: -4304153909526433205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 176
+        width: 141
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd18fa37e8ada390800000000000000
+      internalID: -7805396868082950732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 176
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110927fc13e8ef60800000000000000
+      internalID: 8063944846352122128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 145
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f90710f844c8d0800000000000000
+      internalID: -2827054470065950296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a359ae995eb870800000000000000
+      internalID: 8700490068106913008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_img_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 32
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9aeb90dbb680f70800000000000000
+      internalID: 9153684702287014328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
